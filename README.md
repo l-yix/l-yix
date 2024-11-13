@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hey, it's **Yi Xuan** 👋💻
+### Passionate application developer who loves challenges and making ideas come to life ✨
+This is the place where ideas get built or scraped 🤫
+- 🚀 Currently working on cool stuff
+- 🌱 Currently learning AI/ML and React.js 
+- 📫 Reach me @<yixuan.lim11@gmail.com>
+- ⚡ Fun fact: I love random jokes 
 
-<!--
-**l-yix/l-yix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Connect with me:
+&nbsp;&nbsp;
+[![linkedin](./img/linkedin-light.svg)](https://linkedin.com/in/yixuanlim11#gh-light-mode-only)
+[![linkedin](./img/linkedin-dark.svg)](https://linkedin.com/in/yixuanlim11#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![linkedin](./img/email-light.svg)](mailto:yixuan.lim@gmail.com#gh-light-mode-only)
+[![linkedin](./img/email-dark.svg)](mailto:yixuan.lim@gmail.com#gh-dark-mode-only)
+&nbsp;&nbsp;
 
-Here are some ideas to get you started:
+### Languages and Tools:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
+<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
+<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
+
+&nbsp;&nbsp;
+
+
+## Random Joke
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=random)
