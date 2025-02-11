@@ -2,7 +2,7 @@
 ### Passionate application developer who loves challenges and making ideas come to life ✨
 This is the place where ideas get built or scraped 🤫
 - 🚀 Currently working on cool stuff
-- 🌱 Currently learning AI/ML and React.js 
+- 🌱 Currently learning Java Spring Boot and Next.js 
 - 📫 Reach me at <yixuan.lim11@gmail.com>
 - ⚡ Fun fact: I love random jokes 
 
